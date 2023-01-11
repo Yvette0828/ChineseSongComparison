@@ -1,0 +1,13 @@
+{
+  "lang": "en",
+  "mlp_num_layers": 3,
+  "mlp_num_units": 300,
+  "mlp_num_fan_out": 128,
+  "mlp_activation_func": "tanh",
+  "vocab_ngram_range": [
+    1,
+    1
+  ],
+  "vocab_analyzer": "char_wb",
+  "vocab_binary": false
+}
