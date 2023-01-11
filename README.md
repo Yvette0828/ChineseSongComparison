@@ -25,7 +25,7 @@ DSSM
 │
 ├── data (the necessary lexicon and corpus)
 │   │
-│   ├── contributors_dict.json (The dictionary of contributors)
+│   ├── contributors_dict.json (the dictionary of contributors)
 │   │
 │   ├── QA_DSP2_2020S2_2 (dw)_checked.xlsx (the training data)
 │   │
