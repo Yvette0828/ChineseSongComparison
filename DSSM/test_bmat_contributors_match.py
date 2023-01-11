@@ -16,6 +16,10 @@ from opencc import OpenCC
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import f1_score
 
+threshold = 0.70
+DSSMtrain = "./DSSM/data/QA_DSP2_2020S2_2 (dw)_checked.xlsx"
+DSSMtest = "./DSSM/data/QA_DSP1_20221h_Suspense - DW.xlsx"
+
 def char2chpinyin(inputLIST):
   p = Pinyin()
   pinyinLIST = []
@@ -54,8 +58,8 @@ def char2jppinyin(inputSTR):
 
 # import data
 # train_file = "./DSSM/data/QA_DSP2_2020S2_2 (dw)_checked.xlsx"
-train_file = File.DSSMtrain
-print(train_file)
+train_file = DSSMtrain
+print("train file: ", train_file)
 df = pd.read_excel(train_file)
 df.head(50)
 
@@ -169,7 +173,8 @@ model.fit(split_queries, split_documents)
 
 # 模型測試
 
-test_file = "./DSSM/data/QA_DSP1_20221h_Suspense - DW.xlsx"
+test_file = DSSMtest
+print("test file: ", test_file)
 df = pd.read_excel(test_file)
 df.head(50)
 
@@ -383,7 +388,6 @@ df_match = pd.DataFrame(zip(clean_recon_dict, clean_macon_dict, similarity_score
 # 結果評估
 
 # threshold = 0.85
-threshold = 0.85
 test_res = []
 for i in range(len(df_match)):
   if df_match['reported contributors'][i] == []:
@@ -436,14 +440,14 @@ threshold = str(threshold)
 df_FP = df_compare[(df_compare['gold label']!='correct') & (df_compare['result']=='correct')]
 print(df_FP)
 
-FP_output_file = "./output/FP_threshold_0" + str(threshold[2:]) + ".xlsx"
+FP_output_file = "./result/FP_threshold_0" + str(threshold[2:]) + ".xlsx"
 # df_FP.to_excel(FP_output_file, encoding='utf-8')
 
 # False Negative
 df_FN = df_compare[(df_compare['gold label']!='incorrect') & (df_compare['result']=='incorrect')]
 print(df_FN)
 
-FN_output_file = "./output/FN_threshold_0" + str(threshold[2:]) + ".xlsx"
+FN_output_file = "./result/FN_threshold_0" + str(threshold[2:]) + ".xlsx"
 # df_FN.to_excel(FN_output_file, encoding='utf-8')
 
 frames = [df_FP, df_FN]
@@ -453,5 +457,5 @@ df_false = df_false.rename(columns={'reported title':'reported_title', 'matched 
 df_incorrect_match = pd.merge(df_ch_nounclear, df_false, on=['dsp_song_id', 'matched_work_id', 'reported_title', 'matched_mwtitle'], how='inner')
 print(df_incorrect_match)
 
-false_output_file = "False_threshold_0" + str(threshold[2:]) + ".xlsx"
+false_output_file = "./result/False_threshold_0" + str(threshold[2:]) + ".xlsx"
 df_incorrect_match.to_excel(false_output_file, encoding='utf-8')

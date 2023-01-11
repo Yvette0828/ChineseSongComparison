@@ -1,25 +1,5 @@
 from DSSM import *
 from PERT import *
-
-class File:
-    def __init__(self, threshold, DSSMtrain, DSSMtest, DSSMresult, PERTresult, pinyin_list, PERTresult_clean, mergeRsult):
-        # global threshold
-        # global DSSMtrain
-        # global DSSMtest
-        # global DSSMresult
-        # global PERTresult
-        # global pinyin_list
-        # global PERTresult_clean
-        # global mergeRsult
-
-        threshold = 85
-        DSSMtrain = "./DSSM/data/QA_DSP2_2020S2_2 (dw)_checked.xlsx"
-        DSSMtest = "./DSSM/data/QA_DSP1_20221h_Suspense - DW.xlsx"
-        DSSMresult = "./DSSM/output/2022_secondhalf_negative_threshold_0{threshold}.xlsx".format(threshold=threshold)
-        PERTresult = "./PERT/Logs/Eval_Rslt_DWAVE_Q3.txt"
-        pinyin_list = "./PERT/Corpus/PERT_title_pinyin_Q3.txt"
-        PERTresult_clean = "./result/PERT_result.xlsx"
-        mergeRsult = "./result/merge_result_0{threshold}.xlsx".format(threshold=threshold)
         
 def main():
     print('model runing...')
