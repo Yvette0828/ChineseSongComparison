@@ -21,39 +21,36 @@ The model contains two parts:
 
 ```
 DSSM
-│── test_bmat_contributors_match.py (To train DSSM)
+├── test_bmat_contributors_match.py (to train DSSM)
 │
-├── Data (The necessary lexicon and the example corpus)
+├── data (the necessary lexicon and corpus)
 │   │
 │   ├── contributors_dict.json (The dictionary of contributors)
 │   │
-│   ├── QA_DSP2_2020S2_2 (dw)_checked.xlsx (The training data)
+│   ├── QA_DSP2_2020S2_2 (dw)_checked.xlsx (the training data)
 │   │
-│   └── QA_DSP1_20221h_Suspense - DW.xlsx (The testing data)
+│   └── QA_DSP1_20221h_Suspense - DW.xlsx (the testing data)
 │
-└── Output 
-    │
-    ├── 2022_secondhalf_negative_threshold_070.xlsx # All the data which is predicted False when threshold = 0.70
-    │
-    └── 2022_secondhalf_negative_threshold_085.xlsx # All the data which is predicted False when threshold = 0.85
+└── dssm-model (model path)
+# All the data which is predicted False when threshold = 0.85
 
 ```
 ```
 PERT
-│── dssm_process.py (To process the output of DSSM for the input of PERT)
-│── PinyinCharDataProcesser.py (To provide the dataset)
-│── py2wordPert.py (To do the Pinyin-to-character conversion task by PERT)
+│── dssm_process.py (to process the output of DSSM for the input of PERT)
+│── PinyinCharDataProcesser.py (to provide the dataset)
+│── py2wordPert.py (to do the Pinyin-to-character conversion task by PERT)
 │
-├── NEZHA (The NEZHA language model)
+├── NEZHA (the NEZHA language model)
 │
-├── Configs (The configurations to train PERT at various scals)
+├── Configs (the configurations to train PERT at various scals)
 │
-├── Corpus (The necessary lexicon and the example corpus)
-│   ├── CharListFrmC4P.txt (The list of Chinese characters)
-│   ├── pinyinList.txt (The list of pinyin tokens)
-│   ├── ModernChineseLexicon4PinyinMapping.txt (The word items and the corresponding pinyin tokens in Modern Chinese Lexicon)
-│   ├── PERT_title_Chinese_test.txt (The corpus of Chinese character)
-│   └── PERT_title_pinyin_test.txt (The corpus of pinyin)
+├── Corpus (the necessary lexicon and the example corpus)
+│   ├── CharListFrmC4P.txt (the list of Chinese characters)
+│   ├── pinyinList.txt (the list of pinyin tokens)
+│   ├── ModernChineseLexicon4PinyinMapping.txt (the word items and the corresponding pinyin tokens in Modern Chinese Lexicon)
+│   ├── PERT_title_Chinese_test.txt (the corpus of Chinese character)
+│   └── PERT_title_pinyin_test.txt (the corpus of pinyin)
 │
 └── Models 
     ├── Bigram (The Bigram model trained on some news corpus)
@@ -62,10 +59,17 @@ PERT
 
 ## Result
 
+
 ```
 Result Folder
-├── PERT_result.xlsx
-└── merge_result.xlsx (The data which need to be checked manually.)
+│
+├── False_threshold_07.xlsx (false result of DSSM when threshold = 0.70)
+├── False_threshold_085.xlsx (false result of DSSM when threshold = 0.85)
+├── PERT_result_07.xlsx (PERT result when threshold = 0.70)
+├── PERT_result_085.xlsx (PERT result when threshold = 0.85)
+├── merge_result_07.xlsx (merge result of DSSM & PERT when threshold = 0.70) 
+├── merge_result_085.xlsx (merge result of DSSM & PERT when threshold = 0.85) 
+└── exceptionSongTitle.txt (data which cannot be predicted in PERT)
 ```
 
 ## Reference
