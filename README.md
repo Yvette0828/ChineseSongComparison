@@ -32,7 +32,6 @@ DSSM
 │   └── QA_DSP1_20221h_Suspense - DW.xlsx (the testing data)
 │
 └── dssm-model (model path)
-# All the data which is predicted False when threshold = 0.85
 
 ```
 ```
