@@ -52,8 +52,8 @@ PERT
 │   └── PERT_title_pinyin_test.txt (the corpus of pinyin)
 │
 └── Models 
-    ├── Bigram (The Bigram model trained on some news corpus)
-    └── pert_tiny_py_lr5e4_10Bs_1e (The PERT model trained on some news corpus under the conditions of learning rate: 5e-4, batch size: 10, and epoch number: 1)
+    ├── Bigram (the Bigram model trained on some news corpus)
+    └── pert_tiny_py_lr5e4_10Bs_1e (the PERT model trained on some news corpus under the conditions of learning rate: 5e-4, batch size: 10, and epoch number: 1)
 ```
 
 ## Result
