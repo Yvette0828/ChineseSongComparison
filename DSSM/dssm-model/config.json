@@ -1,13 +1,3 @@
-{
-  "lang": "en",
-  "mlp_num_layers": 3,
-  "mlp_num_units": 300,
-  "mlp_num_fan_out": 128,
-  "mlp_activation_func": "tanh",
-  "vocab_ngram_range": [
-    1,
-    1
-  ],
-  "vocab_analyzer": "char_wb",
-  "vocab_binary": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3955bb41be3db7947a6074d66028a6cd879c7df3e148d7e4f8146c34c3b2e3c3
+size 223
