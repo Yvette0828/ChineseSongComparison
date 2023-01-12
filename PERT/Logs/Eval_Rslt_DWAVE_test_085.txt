@@ -1,0 +1,731 @@
+G: 绕
+R: 绕
+Correct: 1  Total: 1 precision: 1.0 error rate: 0.0
+G: 执 迷 不 悔
+R: 只 蜜 不 会
+Correct: 1  Total: 4 precision: 0.25 error rate: 0.75
+G: 舍 不 得
+R: 舍 不 得
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 绕
+R: 绕
+Correct: 1  Total: 1 precision: 1.0 error rate: 0.0
+G: 我 不 是 爱 过 就 算 的 人
+R: 我 不 是 爱 国 就 算 的 人
+Correct: 8  Total: 9 precision: 0.8888888888888888 error rate: 0.1111111111111111
+G: 你 瞒 我 瞒
+R: 你 满 我 满
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 窒 爱
+R: 只 爱
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 平 行 时 空
+R: 平 行 时 空
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 忠 实 听 众
+R: 中 是 听 众
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 原 乡 人
+R: 院 向 人
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 青 春 的 酸 也 很 甜
+R: 青 春 的 算 也 很 甜
+Correct: 6  Total: 7 precision: 0.8571428571428571 error rate: 0.14285714285714285
+G: 青 春 的 酸 也 很 甜
+R: 青 春 的 算 也 很 甜
+Correct: 6  Total: 7 precision: 0.8571428571428571 error rate: 0.14285714285714285
+G: 不 会 再 为 妳
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 男 人 不 该 让 女 人 流 泪
+R: 男 人 不 该 让 奴 人 流 泪
+Correct: 8  Total: 9 precision: 0.8888888888888888 error rate: 0.1111111111111111
+G: 我 说 新 年 好
+R: 我 说 心 念 好
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 自 己 做 决 定
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 春 风 少 年 兄
+R: 春 风 少 年 兄
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 因 为 懂 得
+R: 因 为 动 的
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 情 人 敌 人
+R: 情 人 的 人
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 排 湾 女 孩
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 坏 南 孩
+R: 坏 男 孩
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 你 给 我 的 爱 最 多
+R: 你 给 我 的 爱 最 多
+Correct: 7  Total: 7 precision: 1.0 error rate: 0.0
+G: 我 要 快 乐
+R: 我 要 快 乐
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 练 爱
+R: 恋 爱
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 大 不 了 就
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 的 痛
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 一 切 安 好
+R: 一 切 安 好
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 我 怎 能 离 开 你
+R: 我 怎 能 离 开 你
+Correct: 6  Total: 6 precision: 1.0 error rate: 0.0
+G: 我 怎 能 离 开 你
+R: 我 怎 能 离 开 你
+Correct: 6  Total: 6 precision: 1.0 error rate: 0.0
+G: 口 不 对 心
+R: 口 不 对 心
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 天 大 地 大
+R: 天 大 的 大
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 睡 前 故 事
+R: 说 前 故 事
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 真 想 见 到 你
+R: 真 相 见 到 你
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 心 跳
+R: 心 跳
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 下 一 页
+R: 下 一 夜
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 原 乡 人
+R: 院 向 人
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 多 想 和 你 说 再 见
+R: 不 想 和 你 说 再 见
+Correct: 6  Total: 7 precision: 0.8571428571428571 error rate: 0.14285714285714285
+G: 萍 水 相 逢
+R: 萍 水 相 逢
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 你 是 我 兄 弟
+R: 你 是 我 兄 弟
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 不 配
+R: 不 配
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 七 狼 太 甚
+R: 起 浪 大 神
+Correct: 0  Total: 4 precision: 0.0 error rate: 1.0
+G: 梦 境 感 应
+R: 梦 境 感 应
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 旋 转 浪 漫
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 往 日 的 旧 梦
+R: 往 日 的 就 梦
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 床 上 的 黑 洞
+R: 床 上 的 黑 洞
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 情 人 再 见
+R: 情 人 再 见
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 吊 儿 啷 当
+R: 吊 儿 郎 当
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 人 肉 搜 索
+R: 人 肉 搜 索
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 平 行 时 空
+R: 平 行 时 空
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 萍 水 相 逢
+R: 萍 水 相 逢
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 无 人 的 海 边
+R: 无 人 的 海 边
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 黑 日 白 月
+R: 黑 白 日 月
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 做 得 到
+R: 做 的 到
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 一 个 人 不 如 两 个 人
+R: 一 个 人 不 如 两 个 人
+Correct: 8  Total: 8 precision: 1.0 error rate: 0.0
+G: 开 开 心 心 最 重 要
+R: 开 开 心 心 最 重 要
+Correct: 7  Total: 7 precision: 1.0 error rate: 0.0
+G: 过 马 路
+R: 过 马 路
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 蝴 蝶 秀
+R: 蝴 蝶 袖
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 往 日 情
+R: 往 日 情
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 感 应
+R: 感 应
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 造 飞 机
+R: 造 飞 机
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 希 望 变 成 你
+R: 希 望 变 成 你
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 你 瞒 我 瞒
+R: 你 满 我 满
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 永 远 不 说 再 见
+R: 永 远 不 说 再 见
+Correct: 6  Total: 6 precision: 1.0 error rate: 0.0
+G: 夜
+R: 也
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 绿 洲
+R: 路 周
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 不 落 的 音 符
+R: 不 落 的 音 符
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 说 拜 拜
+R: 说 白 白
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 花 开 富 贵 满 华 堂
+R: 花 开 福 归 漫 画 堂
+Correct: 3  Total: 7 precision: 0.42857142857142855 error rate: 0.5714285714285714
+G: 闪 闪 惹 人 爱
+R: 闪 闪 惹 人 爱
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 春 风 少 年 兄
+R: 春 风 少 年 兄
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 出 外 人
+R: 出 外 人
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 彩 色 的 黑
+R: 彩 色 的 黑
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 推 开 世 界 的 门
+R: 推 开 世 界 的 们
+Correct: 5  Total: 6 precision: 0.8333333333333334 error rate: 0.16666666666666666
+G: 你 们
+R: 你 们
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 游 戏
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 蓝 雨
+R: 蓝 雨
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 真 想 见 到 你
+R: 真 相 见 到 你
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 心 碎 的 抱 歉
+R: 心 碎 的 保 千
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 说 你 不 爱 我
+R: 说 你 不 爱 我
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 披 风
+R: 被 风
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 潜 意 识 失 控
+R: 潜 意 识 是 空
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 怪 天 气
+R: 怪 天 气
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 离 开 忧 郁 的 习 惯
+R: 离 开 有 余 的 习 惯
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 冠 军 主 打 歌
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 恋 一 个 爱
+R: 练 一 个 爱
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 思 君
+R: 四 军
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 艺 界 人 生
+R: 一 届 人 生
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 但 我 爱 你
+R: 但 我 爱 你
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 簷 前 雨
+R: 眼 前 预
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 推 开 世 界 的 门
+R: 推 开 世 界 的 们
+Correct: 5  Total: 6 precision: 0.8333333333333334 error rate: 0.16666666666666666
+G: 爱 就 不 免 惊
+R: 爱 就 不 面 经
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 我 是 香 蕉
+R: 我 是 香 蕉
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 同 情 的 罪
+R: 同 情 的 最
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 一 个 人 不 如 两 个 人
+R: 一 个 人 不 如 两 个 人
+Correct: 8  Total: 8 precision: 1.0 error rate: 0.0
+G: 茧 人
+R: 见 人
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 看 见
+R: error
+Correct: 0  Total: 1 precision: 0.0 error rate: 1.0
+G: 欢 喜 再 相 聚
+R: 欢 喜 在 向 车
+Correct: 2  Total: 5 precision: 0.4 error rate: 0.6
+G: 春 夏 秋 冬
+R: 春 夏 秋 冬
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 猪 你 有 个 大 肥 年
+R: 祝 你 有 个 大 飞 年
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 广 东 歌
+R: 广 东 个
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 执 迷 不 悔
+R: 只 蜜 不 会
+Correct: 1  Total: 4 precision: 0.25 error rate: 0.75
+G: 玛 纪
+R: 马 系
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 床 上 的 黑 洞
+R: 床 上 的 黑 洞
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 说 拜 拜
+R: 说 白 白
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 日 落 大 道
+R: 日 落 达 到
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 雨 不 停 心 不 定
+R: 与 不 停 心 不 定
+Correct: 5  Total: 6 precision: 0.8333333333333334 error rate: 0.16666666666666666
+G: 零 距 离
+R: 零 距 离
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 男 人 不 该 让 女 人 流 泪
+R: 男 人 不 该 让 奴 人 流 泪
+Correct: 8  Total: 9 precision: 0.8888888888888888 error rate: 0.1111111111111111
+G: 如 果 云 知 道
+R: 如 果 云 知 道
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 我 是 阳 光 的
+R: 我 是 阳 光 的
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 我 把 爱 情 收 回 来
+R: 我 吧 爱 情 手 回 来
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 乖 乖 坏 女 孩
+R: 乖 乖 坏 怒 海
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 爱 上 一 个 不 回 家 的 人
+R: 爱 上 一 个 不 回 家 的 人
+Correct: 9  Total: 9 precision: 1.0 error rate: 0.0
+G: 无 情 人 有 情 天
+R: 无 情 人 有 情 天
+Correct: 6  Total: 6 precision: 1.0 error rate: 0.0
+G: 我 也 爱 你
+R: 我 也 爱 你
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 坦 白
+R: 坦 白
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 归 人
+R: 贵 人
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 死 心 蹋 地
+R: 死 心 塌 地
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 错 误 的 爱
+R: 错 误 的 爱
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 闪 亮 每 一 天
+R: 单 量 每 一 天
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 东 区 那 条 巷 子
+R: 动 去 那 条 巷 子
+Correct: 4  Total: 6 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 彩 色 的 黑
+R: 彩 色 的 黑
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 梦 奇 地
+R: 梦 起 的
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 男 人 不 该 让 女 人 流 泪
+R: 男 人 不 该 让 奴 人 流 泪
+Correct: 8  Total: 9 precision: 0.8888888888888888 error rate: 0.1111111111111111
+G: 无 声 钢 琴
+R: 无 声 钢 琴
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 因 为 懂 得
+R: 因 为 动 的
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 你 爱 我 吗
+R: 你 爱 我 妈
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 打 打 打
+R: 大 大 大
+Correct: 0  Total: 3 precision: 0.0 error rate: 1.0
+G: 一 起 去 巴 黎
+R: 一 起 去 吧 里
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 情 字
+R: 情 自
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 坏 人
+R: 坏 人
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 摇 篮 曲
+R: 摇 篮 曲
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 两 个 人 的 下 雪 天
+R: 两 个 人 的 下 学 天
+Correct: 6  Total: 7 precision: 0.8571428571428571 error rate: 0.14285714285714285
+G: 末 路 歌 手
+R: 没 路 歌 手
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 海 口 人
+R: 海 口 人
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 每 一 天
+R: 每 一 天
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 今 夜 我 敬 你
+R: 今 夜 我 经 你
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 泪 海
+R: 类 孩
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 妈 妈 请 你 也 保 重
+R: 妈 妈 情 你 也 保 中
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 泪 海
+R: 类 孩
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 休 假
+R: 秀 家
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 彩 色 的 黑
+R: 彩 色 的 黑
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 黑 孔 雀
+R: 黑 空 缺
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 妈 妈 请 你 也 保 重
+R: 妈 妈 情 你 也 保 中
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 未 曾 把 你 忘 记
+R: 为 曾 把 你 忘 记
+Correct: 5  Total: 6 precision: 0.8333333333333334 error rate: 0.16666666666666666
+G: 有 骨 气
+R: 有 故 起
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 坚 强 的 动 物
+R: 间 将 的 动 无
+Correct: 2  Total: 5 precision: 0.4 error rate: 0.6
+G: 春 去 春 又 回
+R: 春 去 春 有 回
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 没 有 人 像 你 一 样
+R: 没 有 人 想 你 一 样
+Correct: 6  Total: 7 precision: 0.8571428571428571 error rate: 0.14285714285714285
+G: 地 母 经
+R: 的 目 经
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 你 在 我 心 里
+R: 你 在 我 心 里
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 难 忘 的 初 恋 情 人
+R: 难 忘 的 初 恋 情 人
+Correct: 7  Total: 7 precision: 1.0 error rate: 0.0
+G: 房 间
+R: 房 间
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 谎 言 秀
+R: 谎 言 秀
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 爱 上 一 个 不 回 家 的 人
+R: 爱 上 一 个 不 回 家 的 人
+Correct: 9  Total: 9 precision: 1.0 error rate: 0.0
+G: 不 说 晚 安
+R: 不 说 晚 安
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 死 心 蹋 地
+R: 死 心 塌 地
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 水 手 的 心 声
+R: 说 手 的 心 生
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 海 鸥
+R: 海 区
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 笑 忘 书
+R: 消 亡 数
+Correct: 0  Total: 3 precision: 0.0 error rate: 1.0
+G: 蓝 雨
+R: 蓝 雨
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 慈 母 颂
+R: 此 目 送
+Correct: 0  Total: 3 precision: 0.0 error rate: 1.0
+G: 烟 雨 斜 阳
+R: 烟 雨 斜 阳
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 便 利 店 约 会
+R: 便 利 店 说 回
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 我 没 有 骗 你
+R: 我 没 有 骗 你
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 泪 海
+R: 类 孩
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 快 乐 酒 店
+R: 快 乐 酒 店
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 浏 阳 河
+R: 留 洋 河
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 出 人 头 地
+R: 出 人 头 地
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 心 跳
+R: 心 跳
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 归 人
+R: 贵 人
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 忘 了 问 你
+R: 忘 了 问 你
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 诗 意
+R: 是 一
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 小 路
+R: 小 路
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 挥 别
+R: 会 别
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 信 你 恋 爱 观
+R: 心 你 恋 爱 关
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 希 望
+R: 希 望
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 妈 妈 请 你 也 保 重
+R: 妈 妈 情 你 也 保 中
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 出 外 人
+R: 出 外 人
+Correct: 3  Total: 3 precision: 1.0 error rate: 0.0
+G: 夕 阳 西 沉
+R: 夕 阳 西 沉
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 情 人 再 见
+R: 情 人 再 见
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 不 落 的 音 符
+R: 不 落 的 音 符
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 父 亲 的 相 片
+R: 父 亲 的 相 片
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 尘 埃
+R: 称 爱
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 有 你 的 江 南
+R: 有 你 的 江 南
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 车 窗 外 的 身 影
+R: 车 窗 外 的 身 影
+Correct: 6  Total: 6 precision: 1.0 error rate: 0.0
+G: 太 好 的 爱 不 在 人 间
+R: 太 好 的 爱 不 在 人 间
+Correct: 8  Total: 8 precision: 1.0 error rate: 0.0
+G: 泪 海
+R: 类 孩
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 聊 伤
+R: 了 上
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 煞 戏
+R: 沙 西
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 了 断 未 了 情
+R: 了 断 为 了 情
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 如 果 云 知 道
+R: 如 果 云 知 道
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 又 见 炊 烟
+R: 有 见 炊 烟
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 心 中 在 下 雪
+R: 心 中 在 下 学
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 伤 心 伤 到 心 透
+R: 伤 心 上 到 心 头
+Correct: 4  Total: 6 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 我 把 爱 情 收 回 来
+R: 我 吧 爱 情 手 回 来
+Correct: 5  Total: 7 precision: 0.7142857142857143 error rate: 0.2857142857142857
+G: 半 日 花 园
+R: 半 日 花 园
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 同 情 的 罪
+R: 同 情 的 最
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 悲 欢 岁 月
+R: 悲 欢 岁 月
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 减 肥 拳
+R: 间 飞 泉
+Correct: 0  Total: 3 precision: 0.0 error rate: 1.0
+G: 虹 彩 她 妹 妹
+R: 红 彩 他 美 美
+Correct: 1  Total: 5 precision: 0.2 error rate: 0.8
+G: 情 人 再 见
+R: 情 人 再 见
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 红 豆
+R: 红 都
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 分 送 寂 寞 和 爱
+R: 分 送 给 没 和 爱
+Correct: 4  Total: 6 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 减 肥 拳
+R: 间 飞 泉
+Correct: 0  Total: 3 precision: 0.0 error rate: 1.0
+G: 蓝 雨
+R: 蓝 雨
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 爱 上 一 个 不 回 家 的 人
+R: 爱 上 一 个 不 回 家 的 人
+Correct: 9  Total: 9 precision: 1.0 error rate: 0.0
+G: 尖 叫
+R: 间 交
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 黑 犬 默 语
+R: 黑 全 没 遇
+Correct: 1  Total: 4 precision: 0.25 error rate: 0.75
+G: 意 义 绝 缘 体
+R: 一 一 绝 缘 体
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 想 飞
+R: 向 飞
+Correct: 1  Total: 2 precision: 0.5 error rate: 0.5
+G: 大 地 儿 女
+R: 大 的 儿 奴
+Correct: 2  Total: 4 precision: 0.5 error rate: 0.5
+G: 半 日 花 园
+R: 半 日 花 园
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 雨 中 少 年
+R: 与 中 少 年
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 谁 想 谁
+R: 说 想 说
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 玛 纪
+R: 马 系
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 酒 女 酒 女
+R: 就 怒 就 怒
+Correct: 0  Total: 4 precision: 0.0 error rate: 1.0
+G: 男 孩
+R: 男 孩
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 我 需 要 安 慰
+R: 我 需 要 安 慰
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 嗨 年 轻 人
+R: 还 年 轻 人
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 英 雄 上 线
+R: 英 雄 上 限
+Correct: 3  Total: 4 precision: 0.75 error rate: 0.25
+G: 谁 怕 谁
+R: 说 怕 说
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 决 心
+R: 决 心
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 爱 的 开 始
+R: 爱 的 开 始
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 旧 情 的 回 忆
+R: 就 情 的 回 一
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 出 人 头 地
+R: 出 人 头 地
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+G: 现 代 爱 情 故 事
+R: 情 爱 现 代 事 故
+Correct: 0  Total: 6 precision: 0.0 error rate: 1.0
+G: 何 处 不 飞 花
+R: 和 出 不 飞 花
+Correct: 3  Total: 5 precision: 0.6 error rate: 0.4
+G: 风 筝
+R: 风 筝
+Correct: 2  Total: 2 precision: 1.0 error rate: 0.0
+G: 高 山 不 了 情
+R: 高 山 不 了 情
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 痴 情 一 世 人
+R: 痴 情 一 是 人
+Correct: 4  Total: 5 precision: 0.8 error rate: 0.2
+G: 思 君
+R: 四 军
+Correct: 0  Total: 2 precision: 0.0 error rate: 1.0
+G: 甜 蜜 的 家 庭
+R: 甜 蜜 的 家 庭
+Correct: 5  Total: 5 precision: 1.0 error rate: 0.0
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 月 夜 愁
+R: 月 夜 仇
+Correct: 2  Total: 3 precision: 0.6666666666666666 error rate: 0.3333333333333333
+G: 红 豆 词
+R: 红 都 次
+Correct: 1  Total: 3 precision: 0.3333333333333333 error rate: 0.6666666666666666
+G: 我 只 想 知 道 你 是 否 真 的 爱 我
+R: 我 只 想 知 道 你 是 否 真 的 爱 我
+Correct: 12  Total: 12 precision: 1.0 error rate: 0.0
+G: 无 可 避 免
+R: 无 可 避 免
+Correct: 4  Total: 4 precision: 1.0 error rate: 0.0
+Correct in the whole file: 743  Total in the whole file: 984 precision: 0.7550813008130082 error rate: 0.24491869918699186
+Total time consuming: 0.5868608951568604
